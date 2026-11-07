@@ -10,7 +10,7 @@
 <br>
 # 🌐 Connect With Me
 <br>
-<a href="https://linkedin.com/argon2203"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/argon2203"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="https://github.com/argon2203"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 <a href="https://instagram.com/_aaryan2203"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="https://twitter.com/_aaryan2203"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
