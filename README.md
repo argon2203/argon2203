@@ -7,20 +7,20 @@
 </a>
 
 ---
-<br><br<br>
+<br><br
 ### 🌐 Connect With Me
-<br><br><br>
+<br>
 <a href="https://linkedin.com/argon2203"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="https://github.com/argon2203"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 <a href="https://instagram.com/_aaryan2203"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="https://twitter.com/_aaryan2203"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
 <br><br><br>
 ### 💻 Tech Stack & Tools
-<br><br><br>
+<br>
 <img src="https://skillicons.dev/icons?i=aws,tensorflow,tailwind,c,cpp,css,mysql,obsidian,kali,npm,python,pytorch,docker,django,gcp,linux,opencv,mongodb,sklearn,dart,flutter&theme=dark&perline=7" alt="Tech Stack" />
 <br><br><br>
 ### ⚡ Competitive Programming
-<br><br><br>
+<br>
 <a href="https://leetcode.com/u/argon2203/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
@@ -35,7 +35,7 @@
 </a>
 <br><br><br>
 ### 🔐 Cybersecurity Platforms
-<br><br><br>
+<br>
 <a href="https://tryhackme.com/">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </a>
