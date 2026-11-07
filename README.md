@@ -8,18 +8,18 @@
 
 ---
 <br>
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 <br>
 <a href="https://linkedin.com/argon2203"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="https://github.com/argon2203"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 <a href="https://instagram.com/_aaryan2203"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="https://twitter.com/_aaryan2203"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
 <br><br><br>
-## 💻 Tech Stack & Tools
+# 💻 Tech Stack & Tools
 <br>
 <img src="https://skillicons.dev/icons?i=aws,tensorflow,tailwind,c,cpp,css,mysql,obsidian,kali,npm,python,pytorch,docker,django,gcp,linux,opencv,mongodb,sklearn,dart,flutter&theme=dark&perline=7" alt="Tech Stack" />
 <br><br><br>
-## ⚡ Competitive Programming
+# ⚡ Competitive Programming
 <br>
 <a href="https://leetcode.com/u/argon2203/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
@@ -33,8 +33,8 @@
 <a href="https://www.hackerearth.com/@aaryanv.kush2007">
   <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
 </a>
-<br><br><br>
-## 🔐 Cybersecurity Platforms
+<br>
+# 🔐 Cybersecurity Platforms
 <br>
 <a href="https://tryhackme.com/">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
