@@ -7,7 +7,7 @@
 </a>
 
 ---
-<br><br>
+<br>
 ## 🌐 Connect With Me
 <br>
 <a href="https://linkedin.com/argon2203"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
